@@ -1,0 +1,16 @@
+
+#main {
+    text-align: center;
+} 
+
+#titulo {
+    color: darkblue;
+}
+
+.separador {
+    margin-top: 2%;
+}
+
+.elementos-derecha {
+    text-align:  right;
+}
